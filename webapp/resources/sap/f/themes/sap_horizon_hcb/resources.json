@@ -1,0 +1,147 @@
+{
+	"_version": "1.1.0",
+	"resources": [
+		{
+			"name": ".theming",
+			"size": 94,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "AvatarGroup.less",
+			"size": 219,
+			"designtime": true,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "Card.less",
+			"size": 1040,
+			"designtime": true,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "CardLoading.less",
+			"size": 454,
+			"designtime": true,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "DynamicPage.less",
+			"size": 4048,
+			"designtime": true,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "DynamicPageHeader.less",
+			"size": 835,
+			"designtime": true,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "DynamicPageTitle.less",
+			"size": 3333,
+			"designtime": true,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "FlexibleColumnLayout.less",
+			"size": 1550,
+			"designtime": true,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "GridContainer.less",
+			"size": 215,
+			"designtime": true,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "GridList.less",
+			"size": 207,
+			"designtime": true,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "GridListItem.less",
+			"size": 258,
+			"designtime": true,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "ProductSwitchItem.less",
+			"size": 233,
+			"designtime": true,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "ShellBar.less",
+			"size": 10213,
+			"designtime": true,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "SidePanel.less",
+			"size": 998,
+			"designtime": true,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "css_variables.css",
+			"size": 5921,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "css_variables.less",
+			"size": 150792,
+			"designtime": true,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "css_variables.source.less",
+			"size": 150422,
+			"designtime": true,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "library-RTL.css",
+			"size": 123761,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "library-parameters.json",
+			"module": "sap/f/themes/sap_horizon_hcb/library-parameters.json",
+			"size": 2387,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "library.css",
+			"size": 123771,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "library.less",
+			"size": 24647,
+			"designtime": true,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "library.source.less",
+			"size": 673,
+			"designtime": true,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "library_skeleton-RTL.css",
+			"size": 129601,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "library_skeleton.css",
+			"size": 129612,
+			"theme": "sap_horizon_hcb"
+		},
+		{
+			"name": "resources.json",
+			"size": 2678
+		}
+	]
+}
